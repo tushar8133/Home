@@ -2,3 +2,4 @@ SinkTap1
 SinkHotTap
 SinkColdTap
 Sink
+Stove
