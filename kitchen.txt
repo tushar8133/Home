@@ -3,3 +3,4 @@ SinkHotTap
 SinkColdTap
 Sink
 Stove
+GasCylinder
