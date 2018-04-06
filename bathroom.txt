@@ -4,3 +4,4 @@ Tap3
 Shower1
 Geyser
 Commode
+Mirror
